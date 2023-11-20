@@ -1,0 +1,8 @@
+D:\alief\file_c#\latihanuks\bin\Debug\latihanuks.exe.config
+D:\alief\file_c#\latihanuks\bin\Debug\latihanuks.exe
+D:\alief\file_c#\latihanuks\bin\Debug\latihanuks.pdb
+D:\alief\file_c#\latihanuks\obj\Debug\latihanuks.csproj.AssemblyReference.cache
+D:\alief\file_c#\latihanuks\obj\Debug\latihanuks.csproj.SuggestedBindingRedirects.cache
+D:\alief\file_c#\latihanuks\obj\Debug\latihanuks.csproj.CoreCompileInputs.cache
+D:\alief\file_c#\latihanuks\obj\Debug\latihanuks.exe
+D:\alief\file_c#\latihanuks\obj\Debug\latihanuks.pdb
